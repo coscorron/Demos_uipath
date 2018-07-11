@@ -1,0 +1,14 @@
+{
+  "name": "ListadoProducto",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6740.18224",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

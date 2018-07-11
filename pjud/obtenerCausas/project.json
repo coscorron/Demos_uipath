@@ -1,0 +1,14 @@
+{
+  "name": "obtenerCausas",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6740.19479",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
